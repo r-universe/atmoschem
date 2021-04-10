@@ -7,7 +7,9 @@
 	path = eixport
 	url = https://github.com/atmoschem/eixport
 	shallow = true
+	registered = true
 [submodule "EmissV"]
 	path = EmissV
 	url = https://github.com/atmoschem/emissv
 	shallow = true
+	registered = true
