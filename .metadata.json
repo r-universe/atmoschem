@@ -6,5 +6,9 @@
   {
     "package": "EmissV",
     "oncran": true
+  },
+  {
+    "package": "vein",
+    "oncran": true
   }
 ]

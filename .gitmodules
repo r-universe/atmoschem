@@ -13,3 +13,8 @@
 	url = https://github.com/atmoschem/emissv
 	shallow = true
 	registered = true
+[submodule "vein"]
+	path = vein
+	url = https://github.com/atmoschem/vein
+	shallow = true
+	registered = true
