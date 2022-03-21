@@ -1,7 +1,6 @@
 [
   {
-    "package": "eixport",
-    "oncran": true
+    "package": "eixport"
   },
   {
     "package": "EmissV",
