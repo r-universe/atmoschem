@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "vein"]
+	path = vein
+	url = https://github.com/atmoschem/vein
+	shallow = true
+	registered = true
 [submodule "eixport"]
 	path = eixport
 	url = https://github.com/atmoschem/eixport
@@ -11,10 +16,5 @@
 [submodule "EmissV"]
 	path = EmissV
 	url = https://github.com/atmoschem/emissv
-	shallow = true
-	registered = true
-[submodule "vein"]
-	path = vein
-	url = https://github.com/atmoschem/vein
 	shallow = true
 	registered = true
