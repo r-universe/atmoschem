@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "eixport"]
-	path = eixport
-	url = https://github.com/atmoschem/eixport
 [submodule "EmissV"]
 	path = EmissV
 	url = https://github.com/atmoschem/emissv
+[submodule "eixport"]
+	path = eixport
+	url = https://github.com/atmoschem/eixport
 [submodule "vein"]
 	path = vein
 	url = https://github.com/atmoschem/vein
