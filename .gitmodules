@@ -1,13 +1,22 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/atmoschem/atmoschem.r-universe.dev
 	branch = HEAD
 [submodule "EmissV"]
 	path = EmissV
-	url = https://github.com/atmoschem/emissv
+	url = https://github.com/atmoschem/EmissV
 [submodule "eixport"]
 	path = eixport
 	url = https://github.com/atmoschem/eixport
+[submodule "pega"]
+	path = pega
+	url = https://github.com/atmoschem/pega
+[submodule "respeciate"]
+	path = respeciate
+	url = https://github.com/atmoschem/respeciate
+[submodule "rtorf"]
+	path = rtorf
+	url = https://github.com/atmoschem/rtorf
 [submodule "vein"]
 	path = vein
 	url = https://github.com/atmoschem/vein
